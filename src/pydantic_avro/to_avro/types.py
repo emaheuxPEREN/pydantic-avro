@@ -20,6 +20,7 @@ STRING_TYPE_MAPPING = {
         "logicalType": "uuid",
     },
     "binary": "bytes",
+    "regex": "string",
 }
 
 
